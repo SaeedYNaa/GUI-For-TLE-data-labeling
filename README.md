@@ -25,18 +25,22 @@ Now to annotate the data, we need to draw the polygons using the mouse operation
 
 
 2. Ctrl + z for undoing the last drawn edge:
+   
 ![image3](https://github.com/SaeedYNaa/GUI-For-TLE-data-labeling/assets/45369975/12f430e6-35d3-421f-8a22-3770aebfb57c)
 
 
 3. Zooming in functionality: In order to zoom the image, one should press ctrl + mouse wheel (up for zooming in, down for zooming out).
+
 ![image4](https://github.com/SaeedYNaa/GUI-For-TLE-data-labeling/assets/45369975/27972c3f-99c3-4f45-8224-783075d2c906)
 
 
 4. Zooming + pan: once zooming, you can navigate the zoomed image using ctrl + right mouse button or you can use both scroll bars horizontally and vertically:
+   
 ![image5](https://github.com/SaeedYNaa/GUI-For-TLE-data-labeling/assets/45369975/af282563-7980-4075-ac6c-150d788237dc)
 
 
 5. Creating new polygon: you can create a new polygon using the key-word letter ‘n’ in order to create new polygon and to start from another point:
+   
    ![image6](https://github.com/SaeedYNaa/GUI-For-TLE-data-labeling/assets/45369975/7be6ddbe-8c6a-422d-a596-90d11bb5d3fc)
 
 
