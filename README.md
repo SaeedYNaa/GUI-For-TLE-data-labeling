@@ -3,7 +3,7 @@
 This reprository contains the implementations of the annotation scheme for the Aramaic Incantation Bowls images introduce on our paper [Detecting Spiral Text Lines in Aramaic Incantation Bowls](https://link.springer.com/chapter/10.1007/978-3-031-78495-8_16). (Published at ICDAR24)
 
 
-Welcome to our innovative UI Labeling Application designed to streamline and simplify the process of annotating bowl images with precision and efficiency. We understand the significance of accurate data in modern computer vision and machine learning tasks, and we are proud to present a user-friendly solution that label and segment polygons on bowl images.
+Our innovative annotation scheme based-UI Labeling designed to streamline and simplify the process of annotating bowl images with precision and efficiency. We understand the significance of accurate data in modern computer vision and machine learning tasks, and we are proud to present a user-friendly solution that label and segment polygons on bowl images.
 
 ### Here's how it works:
 The UI Labeling scripts is called UIDataLabelingScript.py which resides in a folder (no matter what is it called) alongside the datasets.
