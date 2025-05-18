@@ -52,5 +52,23 @@ Now to annotate the data, we need to draw the polygons using the mouse operation
 
 
 ## Citation
-<aaaaa>
+@InProceedings{nammneh2025spiraltextlines,
+author="Nammneh, Said
+and Madi, Boraq
+and Atamni, Nour
+and Boardman, Shoshana
+and Vasyutinsky-Shapira, Daria
+and Rabaev, Irina
+and Saabni, Raid
+and El-Sana, Jihad",
+title="Detecting Spiral Text Lines in Aramaic Incantation Bowls",
+booktitle="Pattern Recognition",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="250--264",
+isbn="978-3-031-78495-8"
+}
+
+
 
