@@ -13,7 +13,8 @@ The UI Labeling scripts is called UIDataLabelingScript.py which resides in a fol
 
 #### Running the script:
 Once the structure file is ready, open the terminal/cmd in the main directory then run the script by typing the following command:
-> python UIDataLabelingScript.py dataset_path/ saved_result_path/
+
+```` python UIDataLabelingScript.py dataset_path/ saved_result_path/ ````
 
  where dataset_path is the path of the bowls dataset, and saved_result_path is the path of the saved result (the script will create such a folder if it doesn’t exist.)
 
@@ -52,15 +53,9 @@ Now to annotate the data, we need to draw the polygons using the mouse operation
 
 
 ## Citation
+````
 @InProceedings{nammneh2025spiraltextlines,
-author="Nammneh, Said
-and Madi, Boraq
-and Atamni, Nour
-and Boardman, Shoshana
-and Vasyutinsky-Shapira, Daria
-and Rabaev, Irina
-and Saabni, Raid
-and El-Sana, Jihad",
+author="Nammneh, Said and Madi, Boraq and Atamni, Nour and Boardman, Shoshana and Vasyutinsky-Shapira, Daria and Rabaev, Irina and Saabni, Raid and El-Sana, Jihad",
 title="Detecting Spiral Text Lines in Aramaic Incantation Bowls",
 booktitle="Pattern Recognition",
 year="2025",
@@ -69,6 +64,6 @@ address="Cham",
 pages="250--264",
 isbn="978-3-031-78495-8"
 }
-
+````
 
 
