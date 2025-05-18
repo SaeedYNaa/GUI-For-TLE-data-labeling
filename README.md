@@ -14,7 +14,9 @@ The UI Labeling scripts is called UIDataLabelingScript.py which resides in a fol
 #### Running the script:
 Once the structure file is ready, open the terminal/cmd in the main directory then run the script by typing the following command:
 
-```` python UIDataLabelingScript.py dataset_path/ saved_result_path/ ````
+```` 
+python UIDataLabelingScript.py dataset_path/ saved_result_path/
+````
 
  where dataset_path is the path of the bowls dataset, and saved_result_path is the path of the saved result (the script will create such a folder if it doesn’t exist.)
 
